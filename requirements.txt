@@ -1,0 +1,13 @@
+numpy
+pillow
+mss
+imutils
+
+# For posix (Mac OS X, Linux) systems
+# pyobjc-framework-Quartz
+# pyobjc-core
+# pyobjc
+# pyautogui
+
+# For nt (Windows) systems
+#
